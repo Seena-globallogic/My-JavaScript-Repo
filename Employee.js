@@ -17,6 +17,7 @@ function selectOptiononEntitlementType(executionContext){
             }
             function errorCallback(error) {
                 console.log(error);
+                //console.log(error1);
             }
 
         }
